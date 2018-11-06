@@ -13,7 +13,7 @@ html,body {
 	.buttons_container {
 		display: flex;
 		position: relative;
-		min-height: 100%;
+		height: 100%;
 		max-width: 100vw;
 		flex-wrap: wrap;
 		margin: 0 auto;
@@ -26,16 +26,16 @@ html,body {
 			border-radius: 5px;
 			margin: 20px 0px 20px 40px;
 		}
-		SPAN {
+		span {
 			margin: 0 10px 0 10px;
 		}
 	.footer {
-		position: relative;
+		
   		right: 0;
   		bottom: 0;
   		width: 100%;
 		height: 200px;
-		margin-top: 20px;
+		margin-top: 30px;
 	}
 		.button_circle {
 			height: 200px;
